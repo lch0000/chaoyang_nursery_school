@@ -3,4 +3,4 @@
 
 ### 官网:[朝阳区幼儿入园登记服务平台](http://yery.bjchyedu.cn/)
 
-### 爬取脚本: nurseryId_school.py
+### 爬取脚本: nursery_school.py
